@@ -20,7 +20,12 @@ Found an interesting recursive sequence which led me to an integral that also ma
 
 <img width="798" alt="image" src="https://github.com/jconorgrogan/Interesting-Combinatorial-Integral-equivalence-/assets/130090573/9488abd3-9778-4901-b758-983b53342996">
 
-Further, dividing this output by e yields an interesting concept. Take, for instance, n=3. 
+Further, dividing this output by e yields an interesting concept. 
+
+∫₀¹ xⁿ e^{-x} dx
+
+
+Take, for instance, n=3. 
 
 `f(x) = x^3 e^{-x}`
 
