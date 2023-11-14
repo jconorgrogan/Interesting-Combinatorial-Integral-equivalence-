@@ -1,4 +1,3 @@
-<img width="542" alt="image" src="https://github.com/jconorgrogan/Interesting-Combinatorial-Integral-equivalence-/assets/130090573/6c5696a3-edc5-43c0-a6c3-695fab773928"># Interesting-Combinatorial-Integral-equivalence-
 
 | \( n \) | Recursive Sequence \( u_n \) defined by \( u_{n+1} = -1 + (n+1)u_n \), starting with \( u_0 = e - 1 \) | Integral \( \int_{0}^{1} e^t (1-t)^n \, dt \) |
 |---------|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
