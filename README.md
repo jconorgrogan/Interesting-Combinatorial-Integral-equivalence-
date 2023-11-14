@@ -14,7 +14,7 @@
 | 10      | \( 3628800e - 9864101 \)                                                                            | \( 3628800e - 9864101 \)                        |
 
 
-The output of each is quite interesting; they output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522).
+Found an interesting recursive sequence which led me to an interesting integral. The output of each is quite interesting; they output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522).
 
 <img width="788" alt="image" src="https://github.com/jconorgrogan/Interesting-Combinatorial-Integral-equivalence-/assets/130090573/da135b75-0681-4d4f-b26b-12bba18f3a9e">
 
