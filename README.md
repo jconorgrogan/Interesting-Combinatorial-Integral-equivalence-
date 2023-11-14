@@ -1,4 +1,4 @@
-
+This recursive sequence that I found fascinates me.  You can think of e-1 starting condition as the  proxy for the full growth of something (any process that grows continuously at a constant rate.) for each time period, excluding the original "principal". In other words, what you get leftover when you perform a number of transformations.  
 | \( n \) | Recursive Sequence \( u_n \) defined by \( u_{n+1} = -1 + (n+1)u_n \), starting with \( u_0 = e - 1 \) | Integral \( \int_{0}^{1} e^t (1-t)^n \, dt \) |
 |---------|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | 0       | \( e - 1 \)                                                                                         | \( e - 1 \)                                     |
