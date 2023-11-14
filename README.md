@@ -1,4 +1,6 @@
-This recursive sequence that I found fascinates me.  You can think of e-1 starting condition as the  proxy for the full growth of something (any process that grows continuously at a constant rate.) for each time period, excluding the original "principal". In other words, what you get leftover when you perform a number of transformations.  
+This recursive sequence that I found fascinates me. 
+
+
 | \( n \) | Recursive Sequence \( u_n \) defined by \( u_{n+1} = -1 + (n+1)u_n \), starting with \( u_0 = e - 1 \) | Integral \( \int_{0}^{1} e^t (1-t)^n \, dt \) |
 |---------|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
 | 0       | \( e - 1 \)                                                                                         | \( e - 1 \)                                     |
@@ -15,6 +17,17 @@ This recursive sequence that I found fascinates me.  You can think of e-1 starti
 
 
 Found an interesting recursive sequence which led me to an integral that also matches the output. The output of each is quite interesting; they output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522).
+
+
+**Starting Conditions:**
+You can think of e-1 starting condition as the  proxy for the full growth of something (any process that grows continuously at a constant rate.) for each time period, excluding the original "principal". In other words, what you get leftover when you perform a number of transformations.  
+**Stretching + Shrinking**
+**Stretching (Multiplication):** The term \( (n+1)u_n \) suggests that as \( n \) increases, the stretching factor (multiplication by \( n+1 \)) grows significantly. This factor becomes larger with each step, implying exponential growth.
+
+**Shrinking (Subtraction):** The constant subtraction of 1, on the other hand, represents a fixed, linear decrement in each step. This shrinking effect remains constant throughout the sequence.
+
+
+
 
 <img width="788" alt="image" src="https://github.com/jconorgrogan/Interesting-Combinatorial-Integral-equivalence-/assets/130090573/da135b75-0681-4d4f-b26b-12bba18f3a9e">
 
