@@ -8,12 +8,6 @@ This recursive sequence that I found fascinates me. These results also match up 
 | 2       | \( 2e - 5 \)                                                                                        | \( 2e - 5 \)                                    |
 | 3       | \( 6e - 16 \)                                                                                       | \( 6e - 16 \)                                   |
 | 4       | \( 24e - 65 \)                                                                                      | \( 24e - 65 \)                                  |
-| 5       | \( 120e - 326 \)                                                                                    | \( 120e - 326 \)                                |
-| 6       | \( 720e - 1957 \)                                                                                   | \( 720e - 1957 \)                               |
-| 7       | \( 5040e - 13700 \)                                                                                 | \( 5040e - 13700 \)                             |
-| 8       | \( 40320e - 109601 \)                                                                               | \( 40320e - 109601 \)                           |
-| 9       | \( 362880e - 986410 \)                                                                              | \( 362880e - 986410 \)                          |
-| 10      | \( 3628800e - 9864101 \)                                                                            | \( 3628800e - 9864101 \)                        |
 
 
 They output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522). 
