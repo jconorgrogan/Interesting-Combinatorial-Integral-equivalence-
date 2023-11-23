@@ -12,6 +12,8 @@ This recursive sequence that I found fascinates me. These results also match up 
 
 They output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522). 
 
+<img width="620" alt="image" src="https://github.com/jconorgrogan/Interesting-Combinatorial-Integral-equivalence-/assets/130090573/a7c6bad7-d214-44f2-b99b-d7cda4c13d49">
+
 
 In essence we can think of this, conceptually, as capturing the  fractional growth beyond the integer milestones. In other words, it highlights the excess or remainder of growth that isn't encapsulated within the integer part
 
