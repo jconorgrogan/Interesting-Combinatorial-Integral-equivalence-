@@ -16,11 +16,14 @@ This recursive sequence that I found fascinates me.
 | 10      | \( 3628800e - 9864101 \)                                                                            | \( 3628800e - 9864101 \)                        |
 
 
-Found an interesting recursive sequence which led me to an integral that also matches the output. The output of each is quite interesting; they output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522).
+They output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522). These results also match up to  e * n! - [e * n!].
+
+
+In essence we can think of this, conceptually, as capturing the  fractional growth beyond the integer milestones. In other words, it highlights the excess or remainder of growth that isn't encapsulated within the integer part
 
 
 **Starting Conditions:**
-You can think of e-1 starting condition as the  proxy for the full growth of something (any process that grows continuously at a constant rate.) for each time period, excluding the original "principal". In other words, what you get leftover when you perform a number of transformations.  
+In other words, you can think of e-1 starting condition as the  proxy for the full growth of something (any process that grows continuously at a constant rate.) for each time period, excluding the original "principal". In other words, what you get leftover when you perform a number of transformations.  
 **Stretching + Shrinking**
 **Stretching (Multiplication):** The term \( (n+1)u_n \) suggests that as \( n \) increases, the stretching factor (multiplication by \( n+1 \)) grows significantly. This factor becomes larger with each step, implying exponential growth.
 
