@@ -1,4 +1,4 @@
-This recursive sequence that I found fascinates me. These results also match up to  e * n! - [e * n!].
+This recursive sequence that I found fascinates me. These results also match up to  e * n! - [e * n!], The fractional or decimal remainder of the product of e! and n!, beyond the nearest integer value.
 
 
 | \( n \) | Recursive Sequence \( u_n \) defined by \( u_{n+1} = -1 + (n+1)u_n \), starting with \( u_0 = e - 1 \) | Integral \( \int_{0}^{1} e^t (1-t)^n \, dt \) |
