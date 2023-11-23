@@ -1,4 +1,4 @@
-This recursive sequence that I found fascinates me. 
+This recursive sequence that I found fascinates me. These results also match up to  e * n! - [e * n!].
 
 
 | \( n \) | Recursive Sequence \( u_n \) defined by \( u_{n+1} = -1 + (n+1)u_n \), starting with \( u_0 = e - 1 \) | Integral \( \int_{0}^{1} e^t (1-t)^n \, dt \) |
@@ -16,7 +16,7 @@ This recursive sequence that I found fascinates me.
 | 10      | \( 3628800e - 9864101 \)                                                                            | \( 3628800e - 9864101 \)                        |
 
 
-They output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522). These results also match up to  e * n! - [e * n!].
+They output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522). 
 
 
 In essence we can think of this, conceptually, as capturing the  fractional growth beyond the integer milestones. In other words, it highlights the excess or remainder of growth that isn't encapsulated within the integer part
