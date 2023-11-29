@@ -10,7 +10,7 @@ This recursive sequence that I found fascinates me. These results also match up 
 | 4       | \( 24e - 65 \)                                                                                      | \( 24e - 65 \)                                  |
 
 
-They output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522). 
+They output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522). A000522 is also related to the Number of operations of addition and multiplication needed to evaluate a determinant of order n by cofactor expansion (A000522-2)
 
 <img width="620" alt="image" src="https://github.com/jconorgrogan/Interesting-Combinatorial-Integral-equivalence-/assets/130090573/a7c6bad7-d214-44f2-b99b-d7cda4c13d49">
 
