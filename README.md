@@ -1,5 +1,9 @@
-This recursive sequence that I found fascinates me. These results also match up to  e * n! - [e * n!] for all n>0, The fractional or decimal remainder of the product of e! and n!, beyond the nearest integer value.
+Found some interesting equations:
 
+1.  e * n! - [e * n!] for all n>0 ; The fractional or decimal remainder of the product of e! and n!, beyond the nearest integer value.
+2. Recursive Sequence \( u_n \) defined by \( u_{n+1} = -1 + (n+1)u_n \), starting with \( u_0 = e - 1 \
+3. Integral \( \int_{0}^{1} e^t (1-t)^n \, dt \
+4. e (Γ(1 + n) - Γ(1 + n, 1)) (Another way of writing the previous)
 
 | \( n \) | Recursive Sequence \( u_n \) defined by \( u_{n+1} = -1 + (n+1)u_n \), starting with \( u_0 = e - 1 \) | Integral \( \int_{0}^{1} e^t (1-t)^n \, dt \) |
 |---------|------------------------------------------------------------------------------------------------------|-------------------------------------------------|
