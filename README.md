@@ -16,7 +16,7 @@ Found some interesting equations:
 
 They output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well as the total number of permutations of all subsets of an n-set (A000522). A000522 is also related to the Number of operations of addition and multiplication needed to evaluate a determinant of order n by cofactor expansion (A000522-2)
 
-<img width="620" alt="image" src="https://github.com/jconorgrogan/Interesting-Combinatorial-Integral-equivalence-/assets/130090573/a7c6bad7-d214-44f2-b99b-d7cda4c13d49">
+<img width="553" alt="image" src="https://github.com/jconorgrogan/Interesting-Combinatorial-Integral-equivalence-/assets/130090573/def737bc-7c24-4e47-b922-a4fbc23e7554">
 
 
 In essence we can think of this, conceptually, as capturing the  fractional growth beyond the integer milestones. In other words, it highlights the excess or remainder of growth that isn't encapsulated within the integer part
@@ -24,13 +24,6 @@ In essence we can think of this, conceptually, as capturing the  fractional grow
 
 **Starting Conditions:**
 In other words, you can think of e-1 starting condition as the  proxy for the full growth of something (any process that grows continuously at a constant rate.) for each time period, excluding the original "principal". In other words, what you get leftover when you perform a number of transformations.  
-**Stretching + Shrinking**
-**Stretching (Multiplication):** The term \( (n+1)u_n \) suggests that as \( n \) increases, the stretching factor (multiplication by \( n+1 \)) grows significantly. This factor becomes larger with each step, implying exponential growth.
-
-**Shrinking (Subtraction):** The constant subtraction of 1, on the other hand, represents a fixed, linear decrement in each step. This shrinking effect remains constant throughout the sequence.
-
-
-
 
 <img width="788" alt="image" src="https://github.com/jconorgrogan/Interesting-Combinatorial-Integral-equivalence-/assets/130090573/da135b75-0681-4d4f-b26b-12bba18f3a9e">
 
