@@ -18,6 +18,9 @@ They output the factorial sequence (1, 1, 2, 6, 24 all multiplied by e) as well 
 
 <img width="553" alt="image" src="https://github.com/jconorgrogan/Interesting-Combinatorial-Integral-equivalence-/assets/130090573/def737bc-7c24-4e47-b922-a4fbc23e7554">
 
+The equation  e (Γ(1 + n) - Γ(1 + n, 1)) reaches a limit at x=-1
+<img width="458" alt="image" src="https://github.com/jconorgrogan/Interesting-Combinatorial-Integral-equivalence-/assets/130090573/324bb60c-c3d7-4a8c-a7da-aa589421c278">
+
 
 In essence we can think of this, conceptually, as capturing the  fractional growth beyond the integer milestones. In other words, it highlights the excess or remainder of growth that isn't encapsulated within the integer part
 
